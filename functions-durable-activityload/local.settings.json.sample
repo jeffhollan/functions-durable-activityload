@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<function-storage-connection-string>",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "DurableStorageAccount": "<durable-storage-connection-string>"
+  }
+}

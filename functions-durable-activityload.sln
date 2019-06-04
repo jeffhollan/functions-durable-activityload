@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "functions-durable-activityload", "functions-durable-activityload\functions-durable-activityload.csproj", "{5746BE76-A8E7-43BB-85EF-70BF5D3D3758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5746BE76-A8E7-43BB-85EF-70BF5D3D3758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5746BE76-A8E7-43BB-85EF-70BF5D3D3758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5746BE76-A8E7-43BB-85EF-70BF5D3D3758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5746BE76-A8E7-43BB-85EF-70BF5D3D3758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C55DBF5-4676-4855-85CD-80DD72D3D314}
+	EndGlobalSection
+EndGlobal
